@@ -1,0 +1,24 @@
+{
+  "author": "Adam",
+  "version": "1.2.0",
+  "description": "A projects is awesome",
+  "keywords": [
+    "nice",
+    "freecodecamp",
+    "fullstack"
+  ],
+  "license": "MIT",
+  "name": "fcc-learn-npm",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coderoad/fcc-learn-npm"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "package-name": "version"
+  }
+}
